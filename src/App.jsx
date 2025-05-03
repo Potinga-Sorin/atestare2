@@ -1,5 +1,8 @@
+import Vercel from './Vercel.jsx';
 function App() {
-    return <></>;
+    return <>
+    <Vercel />
+    </>;
 }
 
 export default App;
